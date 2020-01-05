@@ -1,0 +1,2 @@
+# SwiftExtensions
+Example of SwiftExtensions
